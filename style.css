@@ -138,6 +138,7 @@ a{
   z-index: 1;
   font-weight: 500;
   border: solid 3px transparent;
+  cursor: pointer;
 }
 .btn::before{
   content:"";
